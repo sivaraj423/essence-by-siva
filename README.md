@@ -1,3 +1,3 @@
 # essence-by-siva
 
-file:///C:/Users/LIVINA%20M/Downloads/Essence_by_Siva.html
+https://sivaraj423.github.io/essence-by-siva/
